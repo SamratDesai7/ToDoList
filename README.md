@@ -16,27 +16,7 @@
 
 ---
 
-## 🖼️ Demo
 
-> ✅ [Live Preview (if hosted)](https://samratdesai7.github.io/ToDoList/)  
-> *(Add link after deploying on GitHub Pages)*
-
----
-
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <td><img src="https://via.placeholder.com/400x250?text=Desktop+UI" alt="Desktop UI" /></td>
-    <td><img src="https://via.placeholder.com/200x400?text=Mobile+UI" alt="Mobile UI" /></td>
-  </tr>
-  <tr>
-    <td align="center">💻 Desktop View</td>
-    <td align="center">📱 Mobile View</td>
-  </tr>
-</table>
-
----
 
 ## 🔧 Technologies Used
 
